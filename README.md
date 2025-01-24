@@ -1,10 +1,10 @@
-# 👋 Hey there, I'm LYDIA! 
+# 👋 Hey there, I'm LYDIA!  
 
-I'm a 3rd-year Computer Science student with a passion for web development. I recently dived into the world of **UI/UX design** and I'm always excited to explore new technologies and build projects that make an impact.
+I'm a 3rd-year Computer Science student with a passion for web development. I recently dived into the world of **UI/UX design**, and I'm always excited to explore new technologies and build projects that make an impact.  
 
 ---
 
-## 👩‍💻 Tech Stack
+## 👩‍💻 Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -12,6 +12,8 @@ I'm a 3rd-year Computer Science student with a passion for web development. I re
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -26,7 +28,7 @@ I'm a 3rd-year Computer Science student with a passion for web development. I re
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=djeghlaflydia&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
@@ -35,18 +37,19 @@ I'm a 3rd-year Computer Science student with a passion for web development. I re
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning  
 
-- 📱 Strengthening my **React** and **TailwindCSS** skills through hands-on projects.
-- 🔍 Diving deeper into **JavaFX** to create advanced desktop applications.
-- 🎨 Expanding my **UI/UX design** expertise using **Figma** for improved workflows.
+- 📱 Strengthening my **React**, **Next.js**, and **TailwindCSS** skills through hands-on projects.  
+- 🔍 Diving deeper into **JavaFX** to create advanced desktop applications.  
+- 🎨 Expanding my **UI/UX design** expertise using **Figma** for improved workflows.  
+- ⚙️ Exploring the backend world with **Node.js** to enhance my full-stack capabilities.  
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me  
 
-- GitHub: [@djeghlaflydia](https://github.com/djeghlaflydia)
-- Email: **djeghlaf.habiba@gmail.com**
+- GitHub: [@djeghlaflydia](https://github.com/djeghlaflydia)  
+- Email: **djeghlaf.habiba@gmail.com**  
 
 ---
 
