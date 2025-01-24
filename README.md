@@ -30,7 +30,6 @@ I'm a 3rd-year Computer Science student with a passion for web development. I re
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=djeghlaflydia&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djeghlaflydia&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
