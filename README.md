@@ -49,6 +49,7 @@ I'm a 3rd-year Computer Science student with a passion for web development. I re
 ## 📫 Connect with Me  
 
 - GitHub: [github.com](https://github.com/djeghlaflydia)
+- linkedin: [linkedin.com](https://www.linkedin.com/in/lydia-djeghlaf-4b75392b8/)
 - design: [behance.net](https://www.behance.net/lydia_djeghlaf)
 - Email: **djeghlaf.habiba@gmail.com**  
 
